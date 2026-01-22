@@ -107,13 +107,5 @@
 </tr>
 </table>
 </p>        
-
-## 😆 Cheer up with a joke
-<div align="center">
-    
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-</div>
-
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
