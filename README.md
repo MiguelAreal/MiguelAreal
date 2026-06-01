@@ -81,14 +81,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-1575F9?style=flat-square&logo=Visual-Studio&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-557C94?style=flat-square&logo=Fedora&logoColor=white)
-
-<br>
-
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 <!--- stats & Trophy (start) -->
