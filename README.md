@@ -14,7 +14,6 @@
 
 ## About me
 - 🗺️: I am from Porto, Portugal 🇵🇹
-- :school: I am a `Computer Systems Engineering` student at [Polytechnic Institute of Cávado and Ave](https://ipca.pt/)
 - :technologist: **Interested in** `Full-Stack development` **&** `Data Science`
 - :boom: You can visit [my portfolio](https://miguelareal.github.io) for some projects I've done
 
